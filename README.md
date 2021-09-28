@@ -4,7 +4,7 @@ PDSND - Udacity Project One:  Investigating a Relational Database
 
 ## Introduction
 
-In this project, the Sakila DVD Rental database was queried. The Sakila Database holds information about a company that rents movie DVDs. For this project, we have queried the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. For assistance in the queries, the schema for the DVD Rental database was used as given in the `dvd-rental-erd.pdf`.
+The Sakila Database holds information about a company that rents movie DVDs. In this project, the Sakila DVD Rental database was queried to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. For assistance in the queries, the schema for the DVD Rental database was used as given in the `dvd-rental-erd.pdf`.
 
 
 ## Local Environment Setup 
