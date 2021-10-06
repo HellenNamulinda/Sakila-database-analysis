@@ -10,7 +10,7 @@ The Sakila Database holds information about a company that rents movie DVDs. In 
 ## Local Environment Setup 
 To analyze the data, **PostgreSQL** was installed on the local machine.
 
-For detailed instructions on how to install  PostgreSQL, vist 
+For detailed instructions on how to install  PostgreSQL, visit 
 http://www.postgresqltutorial.com/install-postgresql/
 
 
