@@ -17,7 +17,7 @@ http://www.postgresqltutorial.com/install-postgresql/
 Once PostgreSQL server is installed, we need to download the Movie database from: [PostgreSQL Sample Database](http://www.postgresqltutorial.com/postgresql-sample-database/)
 
 
-To load the DVD Rental database into our PostgreSQL server on the local machine, it is recommeded to use the **PgAdmin tool**.Instructions on how to do this are available at: [Load PostgreSQL Sample Database](http://www.postgresqltutorial.com/load-postgresql-sample-database/).
+To load the DVD Rental database into our PostgreSQL server on the local machine, it is recommeded to use the **PgAdmin tool**. Instructions on how to do this are available at: [Load PostgreSQL Sample Database](http://www.postgresqltutorial.com/load-postgresql-sample-database/).
 
 
 
